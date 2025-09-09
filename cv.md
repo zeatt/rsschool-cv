@@ -9,7 +9,7 @@
 - **Email:** vlad.okishor@gmail.com
 - **GitHub:** [zeatt](https://github.com/zeatt)
 - **Telegram:** @zeatt1
-- **Discord:**
+- **Discord:** vlad_okishor(zeatt)
 
 ---
 
@@ -19,7 +19,6 @@ Former Sales Manager making a bold career switch into programming. Working hard 
 ---
 
 ### Technical Skills
-
 - **HTML:** Semantic markup, forms.
 - **CSS:** Box model, Flexbox, responsive layout.
 - **Tools:** VS Code, Git, DevTools.
@@ -32,3 +31,23 @@ Former Sales Manager making a bold career switch into programming. Working hard 
 function multiply(a, b){
   return a * b;
 }
+```
+---
+
+### Experience
+- **IT Experience:** Junior Frontend Developer
+Actively studying markup and web development fundamentals.
+Ready for an internship and eager to take on real-world tasks.
+- **Non-IT Background:** Travel Sales Manager (Tours to Kamchatka)
+Developed strong communication, customer service skills, and a sense of responsibility for results.
+
+---
+
+### Education
+North-Caucasus Federal University (NCFU)
+Degree in Mathematics and Computer Science
+
+---
+
+### English language
+Basic English proficiency
